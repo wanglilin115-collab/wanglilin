@@ -1,7 +1,8 @@
+
 #include <Arduino.h>
 
 #define LED_A_PIN 2
-#define LED_B_PIN 13
+#define LED_B_PIN 4
 
 int pwm_val = 0;
 int step = 2;

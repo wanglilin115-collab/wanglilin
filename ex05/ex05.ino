@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 // 修正引脚宏定义，避免命名冲突
 #define LED_A_PIN 2   // 灯A接GPIO2
 #define LED_B_PIN 13  // 灯B接GPIO13
